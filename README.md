@@ -11,3 +11,4 @@ codes for randomforest, linear regression (including ridge), logistic regression
 5. Visualizations [Viz_EDA.ipynb]: A crisp notebook containing matlplotlib, seaborn based interesting yet insighful visualizations on few datasets.
 6. Statistical_distributions.ipynb: A short overview of important fundamental statistical distributions.
 7. Central Limit theorem: A simulation of the central limit theorem.
+8. Linear reg model building[linear_reg_model_building.ipynb]: Building a linear reg model along with analysis and model selection. This was part of my academic course.
