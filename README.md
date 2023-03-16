@@ -8,8 +8,8 @@ This repo includes a collection of codes dealing with:
 This notebook comprises of a full fledged forecasting model and the analysis behind the development. It also includes primers on analysing
 ACF, PACF plots
 #### 2. ML code development from scratch:
-[RandomForest_from_scratch.py, Linear_n_logisitic_regression_from_scratch.py]: As the names indicate, these scripts contain
-codes for randomforest, linear regression (including ridge), logistic regression developed from scratch using numpy.
+As the names indicate, these scripts contain
+codes for Decision trees, randomforest, linear regression (including ridge), logistic regression, Boosting (adaboost as well as Gradboost), KMeans and spectral clustering developed from scratch using numpy.
 #### 3. Image compression [image_compression_through_svd_n_clustering.ipynb]: 
 Codes for interesting, simple yet elegant ways to compress image using Kmeans and SVD
 #### 4. Analysis of large data through spark (News_data_analysis_through_spark[part_of_academic_course].html):
@@ -24,3 +24,5 @@ A simulation of the central limit theorem.
 Building a linear reg model along with analysis and model selection. This was part of my academic course.
 #### 9. Clustering.ipynb:
 A notebook various clustering methods, their analysis, implementation, and evaluation metrics of clustering.
+#### 9. Feature selection and importance.ipynb:
+A notebook talking about various feature selection and importance techniques including LIME, SHAP, feature importance in random forest, and mRMR.
